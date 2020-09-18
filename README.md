@@ -15,6 +15,7 @@ total 28
 -rwxrwxrwx 1 user user 18600 Sep 18 19:16 huff
 drwxrwxrwx 1 user user  4096 Sep 18 19:16 src
 ```
+###### decode
 for decoding i will rename original file example to example1 because it will be overwritten
 and then execute the command for decoding which will generate example.
 ```

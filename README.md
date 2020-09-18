@@ -1,5 +1,5 @@
 make will generate binary huff
-#### test
+#### Test
 ###### encode
 this command will generate encoded file example.huff.
 ```

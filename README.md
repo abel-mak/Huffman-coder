@@ -33,3 +33,5 @@ drwxrwxrwx 1 user user  4096 Sep 18 19:16 src
 $> diff example example1
 $> 
 ```
+Licence  
+MIT

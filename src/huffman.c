@@ -38,3 +38,4 @@ int main(int argc, char **argv)
 //answers on uniqueness huffman tree: https://stackoverflow.com/questions/2994192/confused-about-huffman-trees/13819209#:~:text=Huffman%20codes%20can%20be%20different,so%20this%20doesn't%20matter.
 //http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1192/resources/minibrowser2/huffman-encoding-supplement.pdf
 //https://en.wikipedia.org/wiki/Tree_traversal
+//https://engineering.purdue.edu/ece264/20au/hw/HW12?alt=huffman
